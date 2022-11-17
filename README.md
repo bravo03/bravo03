@@ -2,7 +2,7 @@
 - 👀 I'm interested in all things
 - 🌱 I’m currently learning  ...
 - 💞️ I’m looking to collaborate on  shop store projects ...
-- 📫 How to reach me bs.mez03@gmail.com
+- 📫 How to reach me bs.meza03@gmail.com
 
 <!---
 bravo03/bravo03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
